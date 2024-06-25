@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">TodoApp</string>
-    <string name="add_actionitem">Add A New Action Item</string>
+    <string name="app_name">Toodledo</string>
+    <string name="add_actionitem">What is your next task?</string>
+    <string name="home">Welcome back! Have you done these?</string>
 </resources>
